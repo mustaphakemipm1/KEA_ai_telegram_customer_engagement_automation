@@ -47,7 +47,25 @@ Telegram
 
 ## Screenshots
 
-Workflow screenshots and sample outputs will be added here.
+### Workflow
+Shows the complete n8n automation workflow.
+
+![Workflow](workflow%20kea.JPG)
+
+### Successful Execution
+Shows the workflow executing successfully.
+
+![Execution](execution%20kea.JPG)
+
+### Google Sheets
+Stores the Telegram subscribers used by the workflow.
+
+![Google Sheets](google%20sheet%20kea.JPG)
+
+### Telegram Message
+Example of the AI-generated Monday greeting sent to subscribers.
+
+![Telegram Message](telegram%20message%20kea.JPG)
 
 ## Author
 
